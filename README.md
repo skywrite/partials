@@ -20,4 +20,6 @@ then download the partial that you want (e.g.):
 Contibutions
 ------------
 
+**Only supports HTML, ejs, or Jade at the moment.**
+
 Just do a pull request.
